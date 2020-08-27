@@ -1,13 +1,13 @@
-package guru.springframework.msscbrewary;
+package guru.springframework.msscbrewery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MsscBrewaryApplication {
+public class MsscBreweryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsscBrewaryApplication.class, args);
+		SpringApplication.run(MsscBreweryApplication.class, args);
 	}
 
 }
